@@ -58,7 +58,7 @@ A simple battleship type game run via the command line. 
 -   December 6th -- Error handling and testing implementation
 
 #### Task Breakdown:
-
+Meeting every thursday
 - Server code:
 
 1. Set Up and Implement Core Game Logic
@@ -88,7 +88,7 @@ Overall Project:
 -   Storage: Our program doesnt require much space to run.
 -   Network: Stable inernet connection.
 -   Graphics: we are using a terminal so graphics are minimal.
--   Operating System: Python supporting OS.
+  
 
 #### Software:
 
@@ -98,7 +98,7 @@ Overall Project:
 
 -   Socket programming
 
--   ??
+-   Operating System: Ensure we are using a operating system that supports python
 
 ### Assumptions:
 
