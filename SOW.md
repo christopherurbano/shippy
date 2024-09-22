@@ -59,9 +59,23 @@ A simple battleship type game run via the command line. 
 
 #### Task Breakdown:
 
--   Server code ?
+- Server code:
 
--   Client code ?
+1. Set Up and Implement Core Game Logic
+  * Estimated Time: 2-3 days
+2. Implemt client/server communication
+  * Estimated Time: 1-2 days
+3. Error handling
+  * Estimated Time: 1 day
+
+- Client code:
+1. Develop client connection and Ui
+  * Estimated Time: 2-3 days
+2. Handle Game Logic and Feedback
+  * Estimated Time: 1-2 days
+Overall Project:
+1. Testing and Integration
+  * Estimated Time: 2-3 days
 
 ### Technical Requirements:
 
