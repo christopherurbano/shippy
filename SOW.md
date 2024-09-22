@@ -83,7 +83,12 @@ Overall Project:
 
 -   [Specify any hardware requirements, such as servers, networking equipment, or specific devices.]
 
--   ??
+-   CPU: modern processor
+-   RAM: 2gb or more
+-   Storage: Our program doesnt require much space to run.
+-   Network: Stable inernet connection.
+-   Graphics: we are using a terminal so graphics are minimal.
+-   Operating System: Python supporting OS.
 
 #### Software:
 
